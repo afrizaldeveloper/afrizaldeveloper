@@ -5,7 +5,7 @@
 
 I am full-stack web developer, my expertise lies in web development and I have a strong understanding of both front-end and back-end technologies. I have a deep interest in technology and it drives me to constantly learning and seeking opportunities to expand my knowledge and improve my skills.
 
-- 🌍  I'm based in Tasikmalaya, Indonesia
+- 🌍  I'm based in Palembang, Indonesia
 - 🖥️  See my portfolio at [afrizalstore.synergize.co](http://afrizalstore.synergize.co/)
 
 ### Tech Stacks
